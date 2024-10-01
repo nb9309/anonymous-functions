@@ -12,6 +12,7 @@ Anonymous OR Lambda Functions--Most IMP
 =>The Anonymous  Functions returns the Result automatically / Implicitly and Need to use return Statement.
 =>To Define Anonymous  Functions, we use a Key word called lambda and hence Anonymous  Functions are called 
     lambda Functions.
+    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Syntax:		varname = lambda params-list : Expression
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,6 +21,7 @@ Syntax:		varname = lambda params-list : Expression
 =>here params-list Represents List of Variables used for Storing the Input(s) coming From Functions.
 =>Expression represents single Executable statement and Provides Solution for tiny Problems a dn whose Result 
     Returns automatuically (No Need to use return statement).
+    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 			Question: Define a Function for addition of two Numbers
 ***************************************************************************************************************************************************
