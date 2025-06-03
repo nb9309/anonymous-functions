@@ -1,4 +1,4 @@
-# anonymous-functions
+# anonymous-function
 
 Anonymous OR Lambda Functions--Most IMP
 			========================================================
